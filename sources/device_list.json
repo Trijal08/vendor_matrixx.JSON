@@ -215,6 +215,12 @@
     "vendor": "Realme",
     "model": "Realme X50 Pro",
     "active": true
+    },
+    {
+      "codename": "bangkk",
+      "vendor": "Motorola",
+      "model": "Moto G84",
+      "active": true
     }
   ]
 }
