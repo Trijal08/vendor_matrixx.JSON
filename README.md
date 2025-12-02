@@ -115,7 +115,7 @@ spes: Update support_group url
 -----
 
 **Step 5. Final Checks Before pull request:**
-- Make sure you have pulled latest changes from the [main](https://github.com/tanvirr007/vendor_matrixx.JSON/tree/main) branch
+- Make sure you have pulled latest changes from the [16.0](https://github.com/tanvirr007/vendor_matrixx.JSON/tree/16.0) branch
 - Check [this](https://github.com/tanvirr007/vendor_matrixx.JSON/commit/8c58530ecb50985d4386dc527477a8cbe0faacf2) commit for reference
 - Confirm your support link and usernames are correct
 - Make sure all filenames match the device codename exactly
