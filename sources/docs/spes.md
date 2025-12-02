@@ -50,6 +50,6 @@ fastboot boot path/to/recovery.img
 ### Notes:
 - Since there's no dedicated recovery partition, you must flash recovery every time after flashing the ROM
 - After the dirty flash your root/kernel will be overwritten. So, take a backup of your favourite kernel
-- If you face any bug or issues, politely report them with [logs](https://github.com/nathanchance/android-tools/blob/main/guides/proper_bug_reporting.txt) into the [device support group](https://t.me/TanvirBuildsSupport)
+- If you face any bug or issues, politely report them with [logs](https://github.com/nathanchance/android-tools/blob/main/guides/proper_bug_reporting.txt) into the [device support group](https://t.me/bleedingedgeandroid)
 - You can also blame the maintainer and move on
 ---
