@@ -9,7 +9,7 @@
     {
       "codename": "spes",
       "vendor": "Xiaomi",
-      "model": "Redmi Note 11/NFC",
+      "model": "Redmi Note 11",
       "active": true
     },
     {
@@ -201,7 +201,7 @@
     {
       "codename": "surya",
       "vendor": "Xiaomi",
-      "model": "POCO X3/NFC",
+      "model": "POCO X3",
       "active": true
     },
     {
