@@ -187,6 +187,12 @@
       "active": true
     },
     {
+      "codename": "lemonadep",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9 Pro",
+      "active": true
+    },
+    {
       "codename": "phoenix",
       "vendor": "Xiaomi",
       "model": "POCO X2",
