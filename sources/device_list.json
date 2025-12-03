@@ -229,6 +229,12 @@
     "active": true
     },
     {
+    "codename": "haydn",
+    "vendor": "Xiaomi",
+    "model": "Mi 11i",
+    "active": true
+    },
+    {
       "codename": "zorn",
       "vendor": "Xiaomi",
       "model": "POCO F7 Pro",
