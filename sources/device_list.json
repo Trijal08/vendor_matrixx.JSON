@@ -187,6 +187,12 @@
       "active": true
     },
     {
+    "codename": "lemonade",
+    "vendor": "OnePlus",
+    "model": "OnePlus 9",
+    "active": true
+    },
+    {
       "codename": "lemonades",
       "vendor": "OnePlus",
       "model": "OnePlus 9R",
