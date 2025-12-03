@@ -13,6 +13,12 @@
       "active": true
     },
     {
+    "codename": "sweet",
+    "vendor": "Xiaomi",
+    "model": "Redmi Note 10 Pro",
+    "active": true
+    },
+    {
       "codename": "munch",
       "vendor": "Xiaomi",
       "model": "POCO F4",
