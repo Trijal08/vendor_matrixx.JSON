@@ -148,7 +148,7 @@
       "codename": "Pong",
       "vendor": "Nothing",
       "model": "Nothing Phone (2)",
-      "active": false
+      "active": true
     },
     {
       "codename": "marble",
